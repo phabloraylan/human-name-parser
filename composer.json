@@ -1,15 +1,11 @@
 {
-    "name": "davidgorges/human-name-parser",
+    "name": "phabloraylan/human-name-parser",
     "description": "Parses a human name",
     "license": "MIT",
     "authors": [
         {
-            "name": "David Gorges",
-            "email": "david.gorges@leaphub.de"
-        },
-        {
-            "name": "Jason Priem",
-            "email": "jason@jasonpriem.com"
+            "name": "Phablo Raylan",
+            "email": "phabloraylan@gmail.com"
         }
     ],
     "require": {
