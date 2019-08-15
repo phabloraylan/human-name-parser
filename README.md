@@ -21,6 +21,14 @@ and parses out the:
 
 # How to use
 
+## Composer
+
+```sh
+composer require phabloraylan/human-name-parser
+```
+
+## Example
+
 ```php
 use HumanNameParser\Parser;
 
@@ -44,7 +52,7 @@ try {
 }
 ```
 
-# Tests
+## Tests
 
 ```sh
 composer test
